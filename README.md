@@ -1,5 +1,5 @@
 # safty_tool
-## *auto_hydra_ssh.py
+## _1_ auto_hydra_ssh.py
 use Hydra brute-forcing the SSH server by auto from server list file.
 
 Usage: python auto_hydra_ssh.py ` <server list file>  <password list file>`.
